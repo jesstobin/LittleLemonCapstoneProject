@@ -1,38 +1,64 @@
-.App {
-  text-align: center;
+
+
+
+
+
+
+/* .reservationForm {
+  width: 90vw;
+  margin: 5rem auto;
+  font-family: 'Karla', sans-serif;
+  font-size: 2.5rem;
+  display: grid;
+  justify-items: center;
+  row-gap: 4rem;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.reservationFormTitle {
+  font-family: 'Markazi Text', serif;
+  font-size: 4rem;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.formInputGroup {
   display: flex;
   flex-direction: column;
   align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  gap: 1rem;
+  width: 30rem;
 }
 
-.App-link {
-  color: #61dafb;
+.formInputGroup input,
+.formInputGroup select {
+  font-family: 'Karla', sans-serif;
+  font-size: 2.5rem;
+  padding: 0.5rem 1rem;
+  text-align: center;
+  width: 100%;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.submitBtn {
+  font-family: 'Karla', sans-serif;
+  font-size: 2rem;
+  font-weight: 600;
+  text-transform: capitalize;
+  text-decoration: none;
+  transition: all 0.2s ease;
+  padding: 2rem 3rem;
+  color: var(--first-dark-gray);
+  background-color: var(--secondary-color);
+  border-radius: 0.5rem;
+  cursor: pointer;
+  border: none;
+  margin-top: 2rem;
 }
+.submitBtn:hover,
+.submitBtn:active {
+  color: var(--first-light-gray);
+  background-color: var(--dark-secondary-color);
+}
+
+@media screen and (min-width: 37.5em) {
+  .formInputGroup {
+    width: 40rem;
+  }
+} */

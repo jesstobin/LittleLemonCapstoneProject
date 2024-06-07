@@ -1,0 +1,59 @@
+footer {
+    background-color: #495E57;
+    color: white;
+    padding: 2rem 2rem 1rem 5rem;
+}
+
+#footertop {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(10rem, 1fr));
+    grid-column-gap: 1rem;
+    grid-row-gap:2rem;
+}
+
+#footertop div {
+    width: fit-content;
+}
+
+
+#footerlogo {
+    background-color: white;
+    padding: 5px;
+    width: 5rem;
+}
+
+footer h3 {
+    color: #F4CE14;
+}
+
+.sociallogos {
+    width: 2rem;
+    margin-right: 1rem;
+}
+
+#footerbottom p {
+    display: grid;
+    justify-content: center;
+}
+
+.footermenulinksdiv {
+    display: flex;
+    flex-direction: column;
+}
+
+.menubuttons {
+    width: fit-content;
+    all: unset;
+    text-decoration: none;
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+
+.menubuttons:focus {
+    outline: revert;
+  }
+
+.menubuttons:hover {
+    transform: scale(1.2);
+    color: #EE9972;
+}

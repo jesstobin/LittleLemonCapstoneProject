@@ -1,0 +1,49 @@
+#about {
+    display: grid;
+    grid-auto-flow: column;
+    grid-auto-columns: 1fr;
+    margin-left: 5rem;
+    margin-top: 3rem;
+    margin-bottom: 2rem;
+    color: #495E57;
+}
+
+#about h1 {
+    font-family: 'Markazitext', serif;
+    font-size: 2rem;
+}
+
+#aboutimages {
+    position: relative;
+    top: 0;
+    left: 0;
+}
+
+#aboutimages img {
+    height: 200px;
+    border-radius: 10px;
+    margin-left: 3rem;
+}
+
+#sarah {
+    position: relative;
+    top: 0;
+    left: 0;
+    z-index: -1;
+}
+
+#amber {
+    position: absolute;
+    top: -27px;
+    left: 104px;
+}
+
+@media only screen and (max-width: 768px){
+    #about {
+        display: grid;
+        grid-auto-flow: row;
+    }
+    #aboutimages {
+        margin-top: 2rem;
+    }
+}

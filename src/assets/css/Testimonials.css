@@ -1,0 +1,15 @@
+#testimonials {
+    margin-left: 5rem;
+    margin-right: 5rem;
+    background-color: #EE9972;
+    border-radius: 30px 30px 30px 30px;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;;
+}
+#testimonials > h2{
+    text-align: center;
+    color: #495E57;
+    font-family: 'Markazitext', serif;
+    font-size: 2rem;
+    margin-bottom: 0px;
+}

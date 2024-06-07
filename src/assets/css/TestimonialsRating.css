@@ -1,0 +1,31 @@
+#testimonialrating {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+#rating5starimage {
+    width: 100px;
+    height: 50px;
+    object-fit: cover;
+    margin: auto;
+}
+
+#reviewpersonimage {
+    width: 250px;
+    border-radius: 30px 30px 30px 30px;
+}
+
+#onereviewcontainer {
+    display:flex;
+    flex-direction: row;
+    justify-content: center;
+    color: white;
+}
+#onereviewcontainer p {
+    max-width: 200px;
+}
+
+#reviewnameandtext {
+    margin-left: 20px;
+}

@@ -1,0 +1,21 @@
+#menupage > h1 {
+    text-align: center;
+    color: #495E57;
+    font-family: 'Markazitext', serif;
+    font-size: 2.5rem;
+}
+
+#menudiv {
+    display: flex;
+}
+#menuimg {
+    margin: 2rem auto;
+    border: solid 1rem #EE9972;
+    border-radius: 4px;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+
+#menuimg:hover {
+    -webkit-transform: scaleX(-1);
+    transform: scaleX(-1);
+}

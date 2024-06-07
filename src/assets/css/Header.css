@@ -1,0 +1,63 @@
+header {
+    display: grid;
+    grid-auto-flow: column;
+    grid-auto-columns: 1fr;
+    background-color: #495E57;
+}
+header #header-left {
+    margin-left: 10rem;
+    margin-right: 7rem;
+}
+header #header-right {
+    margin-top: auto;
+    padding-top: 3rem;
+}
+header img {
+    width: 20rem;
+    border-radius: 30px 30px 0px 0px;
+    max-height: 300px;
+    object-fit: cover;
+}
+header h1 {
+    color: #F4CE14;
+    font-family: 'Markazitext', serif;
+    font-size: 2.5rem;
+    margin-bottom: 0px;
+}
+header h2 {
+    color: #FFFFFF;
+    margin-top: 0px;
+    font-family: 'Markazitext', serif;
+}
+header p {
+  color: #FFFFFF;
+  font-weight: 500;
+}
+
+header button {
+  color:#333333;
+  background-color: #F4CE14;
+  padding: 1rem;
+  border: none;
+  border-radius: 4px;
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+  cursor: pointer;
+  margin-bottom: 1rem;
+}
+
+@media only screen and (max-width: 768px){
+    header {
+        display: grid;
+        grid-auto-flow: row;
+    }
+    header button {
+        margin-bottom: 1rem;
+    }
+    header #header-right {
+        padding-top: 2rem;
+    }
+    header img {
+        margin-left: 10rem;
+        margin-bottom: 1rem;
+    }
+}
