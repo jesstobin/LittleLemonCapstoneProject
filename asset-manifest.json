@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/static/css/main.141d78c0.css",
+    "main.js": "/static/js/main.37f56e4b.js",
+    "static/js/453.99c1801e.chunk.js": "/static/js/453.99c1801e.chunk.js",
+    "static/media/mainimg.jpg": "/static/media/mainimg.8c18e3cf861cd4fa9d0a.jpg",
+    "static/media/lemongif.gif": "/static/media/lemongif.65ea4270419b90db4c14.gif",
+    "static/media/Reviewer2.jpeg": "/static/media/Reviewer2.e2e16f3c4172cc9983b2.jpeg",
+    "static/media/greeksalad.jpg": "/static/media/greeksalad.25fc793faeb3d58ed9fb.jpg",
+    "static/media/Whole Branzino.jpg": "/static/media/Whole Branzino.ad65cbe92eea49dd63e5.jpg",
+    "static/media/markazitext-regular.ttf": "/static/media/markazitext-regular.bf4d3c8601aaa3a12212.ttf",
+    "static/media/bruschetta.jpg": "/static/media/bruschetta.d54e450bda5efcf06010.jpg",
+    "static/media/footer_logo.png": "/static/media/footer_logo.2c859235d6c57bb54176.png",
+    "static/media/Amber.jpeg": "/static/media/Amber.86ca9e201b37e2a88195.jpeg",
+    "static/media/logo1.jpg": "/static/media/logo1.d4cae6fac8384c2dae04.jpg",
+    "static/media/Reviewer1.jpeg": "/static/media/Reviewer1.e4b0ac8515dc99c5ee59.jpeg",
+    "static/media/Reviewer3.jpeg": "/static/media/Reviewer3.861c25e44cda86565db6.jpeg",
+    "static/media/Reviewer4.jpeg": "/static/media/Reviewer4.0a8781590a21555a298d.jpeg",
+    "static/media/Sarah.jpeg": "/static/media/Sarah.576d52918a48183d300e.jpeg",
+    "static/media/ig-instagram-icon.svg": "/static/media/ig-instagram-icon.ff0d2e5b78a841746025447f6b4d0b33.svg",
+    "static/media/5stars.svg": "/static/media/5stars.d271b2e37f55880b141fc8c00a4c16dc.svg",
+    "index.html": "/index.html",
+    "static/media/facebook-round-color-icon.svg": "/static/media/facebook-round-color-icon.5eeab832ebe15a44ba90256b0f6a9536.svg",
+    "static/media/x-social-media-round-icon.svg": "/static/media/x-social-media-round-icon.3a41fd19e98442deae589922e6b0ec27.svg",
+    "static/media/cross.svg": "/static/media/cross.a6b9ffc5deeeb58064e76e9c4fe167d5.svg",
+    "static/media/hamberger_menu_icon.svg": "/static/media/hamberger_menu_icon.fc12fbd678bea2ce4ec9524cbe12a170.svg",
+    "static/media/moped.svg": "/static/media/moped.9425ac37a1d74e35fe60110c0bd0c7b4.svg",
+    "main.141d78c0.css.map": "/static/css/main.141d78c0.css.map",
+    "main.37f56e4b.js.map": "/static/js/main.37f56e4b.js.map",
+    "453.99c1801e.chunk.js.map": "/static/js/453.99c1801e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.141d78c0.css",
+    "static/js/main.37f56e4b.js"
+  ]
+}
